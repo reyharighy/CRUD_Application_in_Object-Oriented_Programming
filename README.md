@@ -8,9 +8,9 @@ Object-Oriented Programming (OOP) is a programming paradigm that structures code
 - [Introduction](#introduction)
 - [Features](#features)
 - - [Create](#create)
-- - [Read](#read)
-- - [Update](#update)
-- - [Delete](#delete)
+  - [Read](#read)
+  - [Update](#update)
+  - [Delete](#delete)
 - [Installation](#installation)
 - [Class Structure](#class-structure)
 
