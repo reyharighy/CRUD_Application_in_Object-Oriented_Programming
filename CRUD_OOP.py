@@ -3,7 +3,7 @@
 import csv
 
 # This is a section to load patient's record
-with open(file='records.csv', mode='r', encoding='utf-8') as load_file:
+with open(file='records-oop.csv', mode='r', encoding='utf-8') as load_file:
     patients_list = []
     reader = csv.DictReader(load_file)
     for row in reader:
@@ -141,7 +141,7 @@ class Initialize:
 
             # This is to save patient's record and terminate the program
             if terminate:
-                with open(file='records.csv', mode='w', encoding='utf-8') as save_file:
+                with open(file='records-oop.csv', mode='w', encoding='utf-8') as save_file:
                     writer = csv.DictWriter(
                         f=save_file,
                         fieldnames=[
