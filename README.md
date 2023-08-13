@@ -21,19 +21,19 @@ Python is a popular programming language known for its simplicity and ease of us
 CRUD is an acronym that stands for Create, Read, Update, and Delete. It refers to the basic operations that are commonly performed on data stored in a database that provides an interface for users to interact with a database by performing these basic operations.
 
 ### Create
-The application enables users to create new records in the dataset. It provides a user-friendly interface to input data and add new entries.
+The application enables users to create new records in the database. It provides a user-friendly interface to input data and add new entries.
 
 ### Read
-Users can retrieve and view existing records from the dataset. The application offers options to search for specific records and then provides with modifying features such as data updating and deleting.
+Users can retrieve and view existing records from the database. The application offers options to search for specific records and then provides with modifying features such as data updating and deleting.
 
 ### Update
-The update feature allows users to modify the data of existing records. It presents a simple way to edit and update the information in the dataset.
+The update feature allows users to modify the data of existing records. It presents a simple way to edit and update the information in the database.
 
 ### Delete
-Users can delete records from the dataset. The application ensures data integrity by confirming deletion actions.
+Users can delete records from the database. The application ensures data integrity by confirming deletion actions.
 
 ## Installation
-To run the CRUD application, you need to have Python installed on your system with few additional libraries to interact with CSV files used as data storage.
+To run the CRUD application, you need to have Python installed on your system with few additional libraries to interact with CSV files used as data storage. We use Command-Line Interface (CLI) to interact with the files instead of a graphical user interface (GUI). CLI can be used in CRUD applications and is particularly useful when efficiency, flexibility, portability, or security are important factors.
 
 ## Class Structure
 The project is organized using an OOP approach. The main classes include:
