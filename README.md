@@ -43,5 +43,4 @@ The project is organized using an OOP approach. The main classes include:
 
 ---
 
-For the article worth reading, I recommend you visit the project on [my website](https://reyharighy.github.io/my-website-portfolio/porto4.html).
-For questions or collaborations, please contact me through [email](mailto:arighymoch@gmail.com).
+For the article worth reading, I recommend you visit the project on [my website](https://reyharighy.github.io/my-website-portfolio/porto4.html). For questions or collaborations, please contact me through [email](mailto:arighymoch@gmail.com).
